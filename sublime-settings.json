@@ -15,12 +15,12 @@
 	"match_brackets_braces": true,
 	"match_brackets_content": true,
 	"match_brackets_square": true,
-	"line_padding_top": 5,
-	"line_padding_bottom": 5,
+	"line_padding_top": 6,
+	"line_padding_bottom": 6,
 	"match_tags": true,
 	"open_files_in_new_window": false,
 	"remember_full_screen": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "gruvbox.sublime-theme",
 	"word_wrap": true
 }
